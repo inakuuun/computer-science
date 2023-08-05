@@ -1,14 +1,14 @@
 # computer-science
 # コンピューター基礎のチュートリアル
 https://www.tutorialspoint.com/computer_fundamentals/index.htm
-- [コンポーネント](./コンピュータの基礎/コンポーネント.md)
-- [CPU](./コンピュータの基礎/CPU.md)
-- [メモリ](./コンピュータの基礎/メモリ.md)
-- [RAM](./コンピュータの基礎/RAM.md)
-- [ROM](./コンピュータの基礎/ROM.md)
-- [マザーボード](./コンピュータの基礎/マザーボード.md)
-- [メモリユニット](./コンピュータの基礎/メモリユニット.md)
-- [ポート](./コンピュータの基礎/ポート.md)
+- [コンポーネント](./computer-basic/コンポーネント.md)
+- [CPU](./computer-basic/CPU.md)
+- [メモリ](./computer-basic/メモリ.md)
+- [RAM](./computer-basic/RAM.md)
+- [ROM](./computer-basic/ROM.md)
+- [マザーボード](./computer-basic/マザーボード.md)
+- [メモリユニット](./computer-basic/メモリユニット.md)
+- [ポート](./computer-basic/ポート.md)
 
 ## オペレーティングシステムのチュートリアル
 https://www.tutorialspoint.com/operating_system/index.htm
