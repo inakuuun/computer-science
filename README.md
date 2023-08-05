@@ -9,6 +9,10 @@ https://www.tutorialspoint.com/computer_fundamentals/index.htm
 - [マザーボード](./computer-basic/マザーボード.md)
 - [メモリユニット](./computer-basic/メモリユニット.md)
 - [ポート](./computer-basic/ポート.md)
+- [ソフトウェア](./computer-basic/ソフトウェア.md)
+- [ネットワーキング](./computer-basic/ネットワーキング.md)
+- [オペレーティングシステム](./computer-basic/オペレーティングシステム.md)
+- [インターネットとイントラネット](./computer-basic/インターネットとイントラネット.md)
 
 ## オペレーティングシステムのチュートリアル
 https://www.tutorialspoint.com/operating_system/index.htm
